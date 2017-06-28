@@ -1,2 +1,2 @@
 # pythontool
-the series tool create by python
+the series tool create by python.
